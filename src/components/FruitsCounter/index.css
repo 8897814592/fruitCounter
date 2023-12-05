@@ -1,0 +1,27 @@
+.bg-container {
+  background-color: #ffd569;
+  background-size: cover;
+  height: 100vh;
+  padding: 40px;
+}
+.small-bg-container {
+  background-color: #ffffff;
+  border-radius: 6px;
+}
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 15px;
+}
+.span-element {
+  color: #ffd569;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 15px;
+}
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  padding: 5px;
+}
